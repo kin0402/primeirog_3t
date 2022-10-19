@@ -1,6 +1,6 @@
 # Terceiro Trimestre
-
 ## Identificação
-Kevin- N°16
+Daniel     - Nr. 03
 
-## Conteudo - HTML - CSS - JavaScript
+## Conteúdo
+HTML, CSS e JavaScript.
