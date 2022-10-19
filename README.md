@@ -1,7 +1,6 @@
-# terceiro Trimestre
+# Terceiro Trimestre
 
 ## Identificação
-Kevin N°16
+Victor Hugo Garozo - N°30
 
-## Cnteudo
-HTML, CSS e javascripit
+## Conteudo - HTML - CSS - JavaScript
