@@ -1,6 +1,6 @@
-# Terceiro Trimestre
-## Identificação
-KEVIN   - N°16
+# Terceiro Trimestre 
 
-## Conteúdo
-HTML, CSS e JavaScript.
+## Identificação 
+Gabriela Tomazi - Nr: 40
+
+## Conteudo - HTML - CSS - JavaScript 
